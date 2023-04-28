@@ -1,4 +1,7 @@
-.patreon {
-    background-color: #f96854;
-    color: white;
+
+img {
+    height: 30px;
+    width:auto+5;
+    background-color: white;
+    border-radius: 8px;
 }
